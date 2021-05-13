@@ -1,76 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T14:38:16.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jzKFDKk85l27bfiRIIen" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T15:01:19.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-FCfYIMu6yAg0rYZ--5W" version="14.6.12" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="1208" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="-325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="1000" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-5" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-6" value="&lt;span&gt;Stage 3&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;社团个性化&lt;/h1&gt;&lt;p&gt;提供了给社团一个自己专属的官网，&lt;span&gt;拥有所有权限，可以更好地分配工作任务，与此同时可以线上管理，方便社团分工以及即时方便活动。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="93" y="430" width="227" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;管理心得功能&lt;/h1&gt;&lt;p&gt;让社长和老师们和管理专业的人一起发表自己的管理心得，一起互相的学习，解决管理能力与领导能力的学习。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;开讲了功能&lt;/h1&gt;&lt;p&gt;邀请社团指导老师开课、可以点播可以直播，让社团人员学习，同时社长可以学习到更多老师的指导。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="430" width="215" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;社团与企业机构对接功能&lt;/h1&gt;&lt;p&gt;技术类社团与技术企业对接，艺术类与艺术类企业对接，文学类与报刊机构等对接，社团可以获得更多的经费、实践活动以及获得自我展示更大的舞台，在实践与培养兴趣爱好之间有获得了知识技能。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="570" width="317" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-2" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="40" y="810" width="1000" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="140" y="805" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-4" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="750" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-5" value="&lt;h1&gt;社团活动发布功能&lt;/h1&gt;&lt;p&gt;让不同的社团可以发布不同的活动（辩论、书法、歌唱、征文等），发布活动后取消了区域化的限制。让相同兴趣的人一起参与进来，增强社员沟通能力。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="890" width="317.5" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="820" y="805" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-7" value="&lt;span&gt;Stage 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="750" y="840" width="160" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-8" value="&lt;h1&gt;官方认证&lt;/h1&gt;&lt;p&gt;社团认证后拥有认证V标，让社团在互联网中体现了自我的真实。同时为社员也开发了部分功能：1.活动的参与：取消了活动区域的限制，可以了解不同学校的社团，一起加入他们，真正做到让个人也在兴趣的路上不孤单。2.个人作品展：不单单社团，我们也提高了社员自我发布的区域，让人找社团的同时也可以让社团找人，方便社员选择社团，也方便社团需要怎么样的社员，3.在平台发布作品达到25篇，可以认证“优秀达人”、“创作者”等，让自己的作品和才华实至名归！&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="580" width="360" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="wQ7hld3pmXYps4lvsHbs-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="610" y="805" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wQ7hld3pmXYps4lvsHbs-3" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="68" y="838" width="160" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="wQ7hld3pmXYps4lvsHbs-4" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" source="dSpGS2XbtfC2sPU-hCQm-2" target="4ec97bd9e5d20128-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="720" as="sourcePoint" />
-            <mxPoint x="740" y="680" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-2" value="社团" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="760" y="1580" width="100" height="100" as="geometry" />
         </mxCell>
@@ -84,7 +17,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oaHbjlyOi3yp2yZwgl7B-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oaHbjlyOi3yp2yZwgl7B-15">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="809.5" y="1680" as="sourcePoint" />
             <mxPoint x="810" y="1830" as="targetPoint" />
@@ -127,7 +60,7 @@
           <mxGeometry x="1031" y="1590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-15" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;周边&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1833" width="80" height="80" as="geometry" />
+          <mxGeometry x="770" y="1840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-16" value="创业服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="770" y="1338" width="80" height="80" as="geometry" />
@@ -135,7 +68,7 @@
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-17" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;增值服务&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="605" y="1753" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oaHbjlyOi3yp2yZwgl7B-18" value="插件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-18" value="定制功能" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="960" y="1770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-19" value="指导社团" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
@@ -144,14 +77,11 @@
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-20" value="费用(平台收取5%)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="885" y="1640" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oaHbjlyOi3yp2yZwgl7B-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="1420" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-24" value="提&lt;br&gt;供&lt;br&gt;活&lt;br&gt;动&lt;br&gt;工&lt;br&gt;具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="775" y="1703" width="30" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oaHbjlyOi3yp2yZwgl7B-25" value="费&lt;br&gt;用&lt;br&gt;平&lt;br&gt;台&lt;br&gt;收&lt;br&gt;取&lt;br&gt;5%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="812" y="1704" width="30" height="100" as="geometry" />
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-25" value="平&lt;br&gt;台&lt;br&gt;收&lt;br&gt;取&lt;br&gt;5%&lt;br&gt;的&lt;br&gt;佣&lt;br&gt;金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="812" y="1698" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-26" value="提供特色服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="669" y="1699" width="90" height="20" as="geometry" />
@@ -170,6 +100,24 @@
         </mxCell>
         <mxCell id="oaHbjlyOi3yp2yZwgl7B-31" value="平台按月收取服务费" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="830" y="1733" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1470" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;direction=south;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="1680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;direction=south;rotation=120;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1818" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;direction=south;rotation=-210;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1820" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oaHbjlyOi3yp2yZwgl7B-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;direction=south;rotation=-178;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1680" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
