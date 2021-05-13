@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T10:26:15.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZmwaD_lriEPOJ63ghsxx" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T11:18:01.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="14TP-FcrhqT7HN4LxEyN" version="14.6.12" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="1421" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1511" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,9 +16,6 @@
         <mxCell id="4ec97bd9e5d20128-7" value="&lt;span&gt;Stage 2&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
           <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-8" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="893.5" y="425" width="160" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
         </mxCell>
@@ -27,9 +24,6 @@
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="963.5" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;社团个性化&lt;/h1&gt;&lt;p&gt;提供了给社团一个自己专属的官网，&lt;span&gt;拥有所有权限，可以更好地分配工作任务，与此同时可以线上管理，方便社团分工以及即时方便活动。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="430" width="227" height="120" as="geometry" />
@@ -43,26 +37,39 @@
         <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;社团与企业机构对接功能&lt;/h1&gt;&lt;p&gt;技术类社团与技术企业对接，艺术类与艺术类企业对接，文学类与报刊机构等对接，社团可以获得更多的经费、实践活动以及获得自我展示更大的舞台，在实践与培养兴趣爱好之间有获得了知识技能。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="250" width="317" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-2" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="400" width="1000" height="10" as="geometry" />
+        <mxCell id="dSpGS2XbtfC2sPU-hCQm-2" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="40" y="810" width="1000" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="395" width="20" height="20" as="geometry" />
+        <mxCell id="dSpGS2XbtfC2sPU-hCQm-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="140" y="805" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-4" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="dSpGS2XbtfC2sPU-hCQm-4" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1210" y="340" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-5" value="&lt;h1&gt;社团活动发布功能&lt;/h1&gt;&lt;p&gt;让不同的社团可以发布不同的活动（辩论、书法、歌唱、征文等），发布活动后取消了区域化的限制。让相同兴趣的人一起参与进来，增强社员沟通能力。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="dSpGS2XbtfC2sPU-hCQm-5" value="&lt;h1&gt;社团活动发布功能&lt;/h1&gt;&lt;p&gt;让不同的社团可以发布不同的活动（辩论、书法、歌唱、征文等），发布活动后取消了区域化的限制。让相同兴趣的人一起参与进来，增强社员沟通能力。&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1153.5" y="440" width="317.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+        <mxCell id="dSpGS2XbtfC2sPU-hCQm-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="1730" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-7" value="&lt;span&gt;Stage 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+        <mxCell id="dSpGS2XbtfC2sPU-hCQm-7" value="&lt;span&gt;Stage 6&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
           <mxGeometry x="1660" y="425" width="160" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="dSpGS2XbtfC2sPU-hCQm-8" value="&lt;h1&gt;官方认证&lt;/h1&gt;&lt;p&gt;社团认证后拥有认证V标，让社团在互联网中体现了自我的真实。同时为社员也开发了部分功能：1.活动的参与：取消了活动区域的限制，可以了解不同学校的社团，一起加入他们，真正做到让个人也在兴趣的路上不孤单。2.个人作品展：不单单社团，我们也提高了社员自我发布的区域，让人找社团的同时也可以让社团找人，方便社员选择社团，也方便社团需要怎么样的社员，3.在平台发布作品达到25篇，可以认证“优秀达人”、“创作者”等，让自己的作品和才华实至名归！&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="793.5" y="150" width="360" height="220" as="geometry" />
+        <mxCell id="dSpGS2XbtfC2sPU-hCQm-8" value="&lt;h1&gt;官方认证&lt;/h1&gt;&lt;p&gt;社团认证后拥有认证V标，让社团在互联网中体现了自我的真实。同时为社员也开发了部分功能：1.活动的参与：取消了活动区域的限制，可以了解不同学校的社团，一起加入他们，真正做到让个人也在兴趣的路上不孤单。2.个人作品展：不单单社团，我们也提高了社员自我发布的区域，让人找社团的同时也可以让社团找人，方便社员选择社团，也方便社团需要怎么样的社员，3.在平台发布作品达到25篇，可以认证“优秀达人”、“创作者”等，让自己的作品和才华实至名归！&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="580" width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ7hld3pmXYps4lvsHbs-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="610" y="805" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ7hld3pmXYps4lvsHbs-3" value="&lt;span&gt;Stage 4&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
+          <mxGeometry x="68" y="838" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wQ7hld3pmXYps4lvsHbs-4" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" edge="1" parent="1" source="dSpGS2XbtfC2sPU-hCQm-2" target="4ec97bd9e5d20128-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="720" as="sourcePoint" />
+            <mxPoint x="740" y="680" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
